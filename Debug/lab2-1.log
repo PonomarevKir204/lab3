@@ -1,0 +1,6 @@
+﻿  datetime.cpp
+  main.cpp
+C:\Users\Кирилл\Desktop\Лаба4\main.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Кирилл\Desktop\Лаба4\Debug\lab2-1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab2-1.vcxproj -> C:\Users\Кирилл\Desktop\Лаба4\Debug\lab2-1.exe
